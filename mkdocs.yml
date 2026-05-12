@@ -34,6 +34,7 @@ nav:
   - Scoping & Meeting & Conditions Of Satisfaction: scoping_meeting_cos.md
   - Project Overview Statement: pos.md
   - Business Case & Analisi delle alternative: bc_and_aa.md
+  - Requirements Breakdown Structure: rbs.md
   
 markdown_extensions:
   - admonition
