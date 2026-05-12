@@ -30,7 +30,7 @@ theme:
     - content.toc.scrollspy_offset
 
 nav:
-  - Introduzione: index.md
+  - Contesto e Dominio: domain.md
   
 markdown_extensions:
   - admonition
