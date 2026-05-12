@@ -31,6 +31,7 @@ theme:
 
 nav:
   - Contesto e Dominio: domain.md
+  - Scoping & Meeting & Conditions Of Satisfaction: scoping_meeting_cos.md
   
 markdown_extensions:
   - admonition
