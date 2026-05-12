@@ -65,6 +65,8 @@ Surya valuta l’e-commerce per:
 
 ## 6. Attori principali
 
+Preciso che essendo un'impresa di medie dimensioni, i soggetti coinvolti possono ricoprire più ruoli.
+
 | Attore | Interesse | Responsabilità |
 |---|---|---|
 | Proprietà Surya | Valutare investimento e strategia | Approvazione budget, scope e go-live |
@@ -82,7 +84,71 @@ Surya valuta l’e-commerce per:
 | Corrieri | Consegna ordini | Spedizioni e tracking |
 | Payment provider | Pagamenti | Transazioni e sicurezza |
 
-## 7. Glossario del dominio
+## 7. Organigramma aziendale
+L’organigramma aziendale di Surya Tesori Accessori evidenzia una struttura familiare e snella. Al vertice si trova la CEO **Rosetta Scanu**, titolare del 45% delle quote societarie. La governance è condivisa con **Roberto Caldari**, anch’egli titolare del 45%, e con il figlio **Edoardo Caldari**, titolare del restante 10%.
+
+Dal punto di vista operativo, l’impresa si basa su una struttura retail composta da store manager e addetti vendita, il cui numero può variare in base alla stagionalità. Nel progetto e-commerce, la figura dell’**E-commerce Specialist**, raffigurata da Edoardo, assume un ruolo centrale nella gestione operativa del canale online, in particolare per catalogo, ordini, report e coordinamento con i fornitori esterni.
+
+```mermaid
+flowchart TB
+
+    CEO["Rosetta Scanu<br/>CEO<br/>Quota societaria: 45%"]
+    Roberto["Roberto Caldari<br/>Socio<br/>Quota societaria: 45%"]
+    Edoardo["Edoardo Caldari<br/>Socio<br/>Quota societaria: 10%"]
+
+    CEO --> Roberto
+    CEO --> Edoardo
+
+    Direzione["Direzione aziendale familiare<br/>Decisioni strategiche, investimento, budget, scope e go-live"]
+
+    CEO --> Direzione
+    Roberto --> Direzione
+    Edoardo --> Direzione
+
+    Ecommerce["E-commerce Specialist<br/>Gestione operativa e-commerce<br/>Catalogo, ordini, report, formazione operativa"]
+    StoreManager["Store Manager<br/>Gestione punti vendita<br/>Feedback su stock, prodotti e clienti"]
+    Addetti["Addetti vendita / commessi stagionali<br/>Supporto vendita, informazioni prodotto e customer care"]
+
+    Direzione --> Ecommerce
+    Direzione --> StoreManager
+    StoreManager --> Addetti
+
+    PM["Project Manager<br/>Governance progetto<br/>Tempi, costi, rischi, deliverable"]
+    BA["Business Analyst<br/>Requisiti, processi e Business Case"]
+    Shopify["Shopify Specialist<br/>Setup, checkout, pagamenti e spedizioni"]
+    UX["UX/UI Designer<br/>Tema, navigazione e mobile experience"]
+    Content["Content/Product Specialist<br/>Schede prodotto, immagini e storytelling"]
+    SEO["SEO/Marketing Specialist<br/>SEO base, analytics e lancio"]
+    Legal["Legal/GDPR Consultant<br/>Privacy, cookie e condizioni vendita"]
+
+    Ecommerce -. coordinamento progetto .-> PM
+    PM -. supporto .-> BA
+    PM -. supporto .-> Shopify
+    PM -. supporto .-> UX
+    PM -. supporto .-> Content
+    PM -. supporto .-> SEO
+    PM -. supporto .-> Legal
+
+    Clienti["Clienti finali<br/>Acquisto online, feedback e ordini"]
+    Corrieri["Corrieri<br/>Spedizioni e tracking"]
+    Payment["Payment Provider<br/>Transazioni e sicurezza pagamenti"]
+
+    Ecommerce --> Clienti
+    Ecommerce --> Corrieri
+    Ecommerce --> Payment
+
+    classDef proprieta fill:#f5f5f5,stroke:#333,stroke-width:1px;
+    classDef interno fill:#e8f4ff,stroke:#333,stroke-width:1px;
+    classDef esterno fill:#fff4e6,stroke:#333,stroke-width:1px;
+    classDef mercato fill:#edf7ed,stroke:#333,stroke-width:1px;
+
+    class CEO,Roberto,Edoardo,Direzione proprieta;
+    class Ecommerce,StoreManager,Addetti interno;
+    class PM,BA,Shopify,UX,Content,SEO,Legal esterno;
+    class Clienti,Corrieri,Payment mercato;
+```
+
+## 8. Glossario del dominio
 
 | Termine | Definizione |
 |---|---|
