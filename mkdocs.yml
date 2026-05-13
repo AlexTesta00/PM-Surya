@@ -1,4 +1,17 @@
 site_name: Surya Tesori & Accessori
+site_url: https://alextesta00.github.io/PM-Surya/
+
+plugins:
+  - search:
+      lang: it
+  - to-pdf:
+      cover: true
+      cover_title: "Surya Tesori & Accessori"
+      cover_subtitle: "Documentazione di progetto"
+      toc_title: "Indice"
+      output_path: pdf/documentazione.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
+
 theme:
   name: material
   features:
