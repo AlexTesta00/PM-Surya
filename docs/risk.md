@@ -70,10 +70,10 @@ Livello rischio = Probabilità x Impatto.
 
 I rischi da monitorare ogni settimana sono:
 
-1. catalogo incompleto;
-2. scope creep;
-3. budget ricorrente oltre 3.000 euro;
-4. una sola persona formata;
-5. stock non sincronizzato;
-6. traffico iniziale basso;
+1. Catalogo incompleto;
+2. Scope creep;
+3. Budget ricorrente oltre 3.000 euro;
+4. Una sola persona formata;
+5. Stock non sincronizzato;
+6. Traffico iniziale basso;
 7. GDPR/cookie.
