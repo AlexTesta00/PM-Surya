@@ -30,15 +30,20 @@ theme:
     - content.toc.scrollspy_offset
 
 nav:
-  - Contesto e Dominio: domain.md
-  - Scoping & Meeting & Conditions Of Satisfaction: scoping_meeting_cos.md
-  - Project Overview Statement: pos.md
-  - Business Case & Analisi delle alternative: bc_and_aa.md
-  - Requirements Breakdown Structure: rbs.md
-  - Project Management Lifecycle: pmlc.md
-  - Work Breakdown Structure: wbs.md
-  - Stime & Tempi & Risorse & Costi: strc.md
-  - Gant & Project Network: gant_pn.md
+  - Introduzione:
+    - Contesto e Dominio: domain.md
+  
+  - Avvio e definizione del progetto:
+    - Scoping & Meeting & Conditions Of Satisfaction: scoping_meeting_cos.md
+    - Project Overview Statement: pos.md
+  
+  - Analisi e pianificazione:
+    - Business Case & Analisi delle alternative: bc_and_aa.md
+    - Requirements Breakdown Structure: rbs.md
+    - Project Management Lifecycle: pmlc.md
+    - Work Breakdown Structure: wbs.md
+    - Stime, tempi, risorse e Costi: strc.md
+    - Gant & Project Network: gant_pn.md
 
 extra_css:
   - stylesheets/extra.css
