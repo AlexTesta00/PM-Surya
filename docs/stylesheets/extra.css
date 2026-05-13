@@ -1,0 +1,14 @@
+.md-typeset .mermaid {
+  overflow-x: auto;
+  text-align: center;
+}
+
+.md-typeset .mermaid svg {
+  max-width: none !important;
+  width: 1500px !important;
+  height: 2000px !important;
+}
+
+.md-grid {
+  max-width: 90rem;
+}
