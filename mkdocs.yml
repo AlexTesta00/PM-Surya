@@ -35,6 +35,7 @@ nav:
   - Project Overview Statement: pos.md
   - Business Case & Analisi delle alternative: bc_and_aa.md
   - Requirements Breakdown Structure: rbs.md
+  - Project Management Lifecycle: pmlc.md
   
 markdown_extensions:
   - admonition
