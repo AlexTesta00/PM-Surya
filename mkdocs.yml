@@ -36,6 +36,10 @@ nav:
   - Business Case & Analisi delle alternative: bc_and_aa.md
   - Requirements Breakdown Structure: rbs.md
   - Project Management Lifecycle: pmlc.md
+  - Work Breakdown Structure: wbs.md
+
+extra_css:
+  - stylesheets/extra.css
   
 markdown_extensions:
   - admonition
