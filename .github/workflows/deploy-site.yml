@@ -25,6 +25,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
       - name: Install WeasyPrint system dependencies
         run: |
           sudo apt-get update
@@ -38,6 +42,12 @@ jobs:
             libopenjp2-7-dev \
             fonts-dejavu
 
+      - name: Install Mermaid CLI dependencies
+        run: |
+          npm install @mermaid-js/mermaid-cli puppeteer
+          npx puppeteer browsers install chrome-headless-shell
+          echo "$(pwd)/node_modules/.bin" >> $GITHUB_PATH
+
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
 
       - uses: actions/cache@v4
@@ -47,7 +57,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: pip install -r requirements.txt
 
       - name: Deploy Site
