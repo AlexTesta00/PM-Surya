@@ -1,32 +1,56 @@
-name: ci 
+name: ci
+
 on:
   push:
     branches:
-      - master 
+      - master
       - main
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
       - name: Configure Git Credentials
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+          python-version: "3.12"
+
+      - name: Install WeasyPrint system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libpango-1.0-0 \
+            libharfbuzz0b \
+            libpangoft2-1.0-0 \
+            libharfbuzz-subset0 \
+            libffi-dev \
+            libjpeg-dev \
+            libopenjp2-7-dev \
+            fonts-dejavu
+
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
       - uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
-          path: ~/.cache 
+          path: ~/.cache
           restore-keys: |
             mkdocs-material-
+
       - name: Install dependencies
         run: pip install -r requirements.txt
-    
+
       - name: Deploy Site
+        env:
+          ENABLE_PDF_EXPORT: "1"
         run: mkdocs gh-deploy --force
