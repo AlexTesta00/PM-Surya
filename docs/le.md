@@ -241,6 +241,6 @@ Condizioni:
 
 ### Stabilizzazione
 
-Periodo: 1-10 giugno 2026.
+Periodo: 1 - 10 giugno 2026.
 
 Obiettivo: correggere problemi minori e assistere l'E-commerce specialist nella gestione iniziale.
