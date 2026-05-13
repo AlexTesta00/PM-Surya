@@ -37,10 +37,11 @@ nav:
   - Requirements Breakdown Structure: rbs.md
   - Project Management Lifecycle: pmlc.md
   - Work Breakdown Structure: wbs.md
+  - Stime & Tempi & Risorse & Costi: strc.md
 
 extra_css:
   - stylesheets/extra.css
-  
+
 markdown_extensions:
   - admonition
   - tables
