@@ -48,6 +48,9 @@ nav:
   
   - Governance e controllo:
     - Analisi dei rischi: risk.md
+  
+  - Esecuzione e chiusura:
+    - Launching and Execution: le.md
 
 extra_css:
   - stylesheets/extra.css
