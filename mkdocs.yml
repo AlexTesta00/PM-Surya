@@ -38,15 +38,22 @@ nav:
   - Project Management Lifecycle: pmlc.md
   - Work Breakdown Structure: wbs.md
   - Stime & Tempi & Risorse & Costi: strc.md
+  - Gant & Project Network: gant_pn.md
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:
   - admonition
   - tables
   - toc:
       permalink: true
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.details
   - pymdownx.highlight
   - pymdownx.superfences:
