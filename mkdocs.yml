@@ -44,6 +44,9 @@ nav:
     - Work Breakdown Structure: wbs.md
     - Stime, tempi, risorse e Costi: strc.md
     - Gant & Project Network: gant_pn.md
+  
+  - Governance e controllo:
+    - Analisi dei rischi: risk.md
 
 extra_css:
   - stylesheets/extra.css
