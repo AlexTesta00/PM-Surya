@@ -85,16 +85,16 @@ Preciso che essendo un'impresa di medie dimensioni, i soggetti coinvolti possono
 | Payment provider | Pagamenti | Transazioni e sicurezza |
 
 ## 7. Organigramma aziendale
-L’organigramma aziendale di Surya Tesori Accessori evidenzia una struttura familiare e snella. Al vertice si trova la CEO **Rosetta Scanu**, titolare del 45% delle quote societarie. La governance è condivisa con **Roberto Caldari**, anch’egli titolare del 45%, e con il figlio **Edoardo Caldari**, titolare del restante 10%.
+L’organigramma aziendale di Surya Tesori Accessori evidenzia una struttura familiare e snella. Al vertice si trova la CEO **Rosetta Scanu**. La governance è condivisa con **Roberto Caldari** e con il figlio **Edoardo Caldari**.
 
 Dal punto di vista operativo, l’impresa si basa su una struttura retail composta da store manager e addetti vendita, il cui numero può variare in base alla stagionalità. Nel progetto e-commerce, la figura dell’**E-commerce Specialist**, raffigurata da Edoardo, assume un ruolo centrale nella gestione operativa del canale online, in particolare per catalogo, ordini, report e coordinamento con i fornitori esterni.
 
 ```mermaid
 flowchart TB
 
-    CEO["Rosetta Scanu<br/>CEO<br/>Quota societaria: 45%"]
-    Roberto["Roberto Caldari<br/>Socio<br/>Quota societaria: 45%"]
-    Edoardo["Edoardo Caldari<br/>Socio<br/>Quota societaria: 10%"]
+    CEO["Rosetta Scanu<br/>CEO"]
+    Roberto["Roberto Caldari<br/>Socio"]
+    Edoardo["Edoardo Caldari<br/>Socio"]
 
     CEO --> Roberto
     CEO --> Edoardo
@@ -168,3 +168,32 @@ flowchart TB
 | MVP | Versione iniziale funzionante con funzionalità essenziali |
 | Soft launch | Lancio controllato prima della pubblicazione pubblica |
 | Analytics | Raccolta e analisi dei dati di traffico e vendita |
+
+## 9. Catena del valore di Porter applicata a un prodotto Surya
+
+Per comprendere meglio il dominio operativo di Surya Tesori Accessori, è utile rappresentare il percorso attraverso cui un prodotto artigianale entra nell’assortimento aziendale e arriva alla vendita negli store fisici o, in prospettiva, nel canale e-commerce.
+
+La catena del valore di Porter permette di distinguere le attività primarie che generano valore per il cliente finale. Nel caso Surya, il valore non nasce solo dalla vendita del prodotto, ma dall’intero processo di ricerca, selezione, relazione con i fornitori, cura artigianale, importazione, presentazione e racconto del prodotto.
+
+```mermaid
+flowchart LR
+
+    A["Scelta del fornitore<br/><br/>Ricerca di artigiani, produttori e partner coerenti con identità Surya"]
+    B["Contatto fornitore<br/><br/>Primo confronto su materiali, stile, disponibilità e affidabilità"]
+    C["Accordo fornitore<br/><br/>Definizione condizioni, tempi, quantità, prezzi e modalità di consegna"]
+    D["Selezione prodotti fatti a mano<br/><br/>Valutazione estetica, qualità, unicità e coerenza con le collezioni"]
+    E["Importazione prodotti<br/><br/>Gestione logistica, documenti, ricezione e controllo merce"]
+    F["Vendita nello store<br/><br/>Esposizione, racconto al cliente, vendita assistita e raccolta feedback"]
+
+    A --> B --> C --> D --> E --> F
+
+    classDef ricerca fill:#eef5ff,stroke:#2b5797,stroke-width:1px,color:#000;
+    classDef relazione fill:#fff4e6,stroke:#b36b00,stroke-width:1px,color:#000;
+    classDef valore fill:#edf7ed,stroke:#2e7d32,stroke-width:1px,color:#000;
+    classDef vendita fill:#f8eafa,stroke:#8e24aa,stroke-width:1px,color:#000;
+
+    class A ricerca;
+    class B,C relazione;
+    class D,E valore;
+    class F vendita;
+```
