@@ -1,6 +1,6 @@
 # Progetto di valutazione, pianificazione e lancio dell’e-commerce Surya Shop
 
-## Descrizione sintetica
+## Riassunto
 
 Il presente elaborato simula la gestione di un progetto software/retail digitale per l’impresa italiana **Surya Tesori Accessori**, brand di gioielli e accessori moda artigianali con tre store fisici in Italia: **Riccione, Misano e Cattolica**.
 
@@ -74,6 +74,6 @@ Il progetto include:
 - Report di chiusura;
 - Report finale.
 
-## Raccomandazione sintetica
+## Raccomandazione
 
 La raccomandazione finale è procedere con **Shopify** come piattaforma per l’MVP e-commerce di Surya Shop. Shopify è preferibile perché consente di rispettare tempi rapidi, budget contenuto, bassa complessità tecnica e necessità di formare una sola persona interna, evitando l’esposizione a rischi tipici di una soluzione custom.
