@@ -58,6 +58,7 @@ theme:
 
 nav:
   - Introduzione:
+    - Descrizione e Approccio: index.md
     - Contesto e Dominio: domain.md
   
   - Avvio e definizione del progetto:
@@ -71,15 +72,19 @@ nav:
     - Project Management Lifecycle: pmlc.md
     - Work Breakdown Structure: wbs.md
     - Stime, tempi, risorse e Costi: strc.md
-    - Gant & Project Network: gant_pn.md
+    - Gant & Pert & Project Network: gant_pn.md
   
   - Governance e controllo:
     - Analisi dei rischi: risk.md
     - Matrice delle responsabilità RASCI: rasci.md
     - Piano di comunicazione & Scope change: scope_change.md
+    - Monitoraggio e Controllo: monitoring.md
+    - Issue Log: issue.md
   
   - Esecuzione e chiusura:
     - Launching and Execution: le.md
+    - Closing: closing.md
+    - Report Finale: final_report.md
 
 extra_css:
   - stylesheets/extra.css
