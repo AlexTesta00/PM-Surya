@@ -141,14 +141,13 @@ Attività:
 
 | Domanda | Risposta simulata |
 |---|---|
-| Il go-live è stato rispettato? | ??? |
+| Il go-live è stato rispettato? | Si, apertura anticipata |
 | Il budget setup è stato rispettato? | Sì, 10.000 euro ipotetici |
 | Il budget ricorrente è sostenibile? | Sì, entro 3.000 euro/anno se app controllate |
 | Shopify è adeguato? | Sì, per MVP snello e gestione autonoma |
 | La persona interna è autonoma? | Sì per attività base |
 | I rischi principali sono stati gestiti? | Sì, con particolare attenzione a catalogo e scope |
 | Sono emerse criticità? | Sì: stock manuale e traffico iniziale da costruire |
-| Serve evoluzione futura? | ??? |
 
 ## 11. Raccomandazioni future
 
