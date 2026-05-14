@@ -2,29 +2,29 @@ site_name: Surya Tesori & Accessori
 site_url: https://alextesta00.github.io/PM-Surya/
 site_author: Alex Testa
 
-#plugins:
-#  - search:
-#      lang: it
+plugins:
+  - search:
+      lang: it
 
-#  - mermaid-to-svg:
-#      enabled_if_env: ENABLE_PDF_EXPORT
-#      image_id_enabled: true
-#      image_id_prefix: mermaid-diagram
-#      mermaid_config:
-#        htmlLabels: false
-#        flowchart:
-#          htmlLabels: false
-#        class:
-#          htmlLabels: false
+  - mermaid-to-svg:
+      enabled_if_env: ENABLE_PDF_EXPORT
+      image_id_enabled: true
+      image_id_prefix: mermaid-diagram
+      mermaid_config:
+        htmlLabels: false
+        flowchart:
+          htmlLabels: false
+        class:
+          htmlLabels: false
 
-#  - to-pdf:
-#      cover: true
-#      cover_title: "Surya Tesori & Accessori"
-#      cover_subtitle: "Documentazione di Project Management"
-#      author: "Alex Testa"
-#      toc_title: "Indice"
-#      output_path: pdf/documentazione.pdf
-#      enabled_if_env: ENABLE_PDF_EXPORT
+  - to-pdf:
+      cover: true
+      cover_title: "Surya Tesori & Accessori"
+      cover_subtitle: "Documentazione di Project Management"
+      author: "Alex Testa"
+      toc_title: "Indice"
+      output_path: pdf/documentazione.pdf
+      enabled_if_env: ENABLE_PDF_EXPORT
 
 theme:
   name: material
