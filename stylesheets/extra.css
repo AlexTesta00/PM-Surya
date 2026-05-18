@@ -1,0 +1,56 @@
+.md-typeset .mermaid {
+  overflow-x: auto;
+  text-align: center;
+}
+
+.md-typeset .mermaid svg {
+  max-width: none !important;
+  width: 1500px !important;
+  height: 2000px !important;
+}
+
+.md-grid {
+  max-width: 90rem;
+}
+
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 14mm 12mm;
+  }
+
+  .md-typeset__scrollwrap,
+  .md-typeset__table {
+    overflow: visible !important;
+  }
+
+  .md-typeset table:not([class]) {
+    display: table !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed !important;
+    font-size: 8pt;
+    border-collapse: collapse;
+  }
+
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    hyphens: auto;
+    padding: 4px 6px;
+  }
+
+  .md-typeset table:not([class]) tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .md-typeset img[id^="mermaid-diagram"] {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 0.8rem auto;
+  }
+}
