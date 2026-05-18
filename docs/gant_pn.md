@@ -87,13 +87,9 @@ gantt
 
 ## 5. Critical path senza interdipendenze
 
-Il critical path ipotetico è:
+Il percorso critico realistico deve considerare anche le interdipendenze tra le attività.
 
-**A1 → A2 → A3 → A5 → A6 → A7 → A10 → A11 → A12 → A13 → A14**
-
-I ritardi su catalogo, pagamenti, test o formazione possono compromettere il go-live.
-
-Questo percorso può non essere veritiero poiché non considera le interdipendenze tra le attività.
+Per questo motivo viene fornito il diagramma di PERT nella sezione sottostante.
 
 ## 6. Dipendenze principali
 
@@ -236,3 +232,5 @@ Le attività più critiche sono:
 - A10 - Test checkout, mobile e contenuti: È una barriera di qualità prima del soft launch;
 - A12 - Soft launch: Serve a validare il sito prima della pubblicazione pubblica;
 - A15 - Monitoraggio post-lancio: È critico per il closing complessivo, perché il report finale dipende dalla raccolta dei dati delle prime due settimane.
+
+A15 non appartiene al percorso critico fino al go-live, ma è critica per la chiusura progettuale e per il report finale.
