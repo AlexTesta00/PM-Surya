@@ -46,7 +46,7 @@ Livello rischio = Probabilità x Impatto.
 | R19 | Mobile experience debole | 3 | 4 | 12 | Alto | Test mobile obbligatorio | UX/UI |
 | R20 | Customer care non strutturato | 3 | 3 | 9 | Medio | FAQ e template risposta | E-commerce specialist |
 
-## 5. Analisi rischi per alternativa
+## 53. Analisi rischi per alternativa
 
 | Alternativa | Rischio tecnico | Rischio economico | Rischio operativo | Valutazione |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ Livello rischio = Probabilità x Impatto.
 | Marketplace/social | Basso | Medio | Medio | Supporto utile, non proprietario |
 | Do nothing | Basso tecnico | Basso breve termine | Alto strategico | Non raccomandato |
 
-## 6. Strategie di mitigazione
+## 4. Strategie di mitigazione
 
 | Strategia | Applicazione |
 |---|---|
@@ -66,7 +66,7 @@ Livello rischio = Probabilità x Impatto.
 | Accettare | Limiti di personalizzazione e canoni ricorrenti |
 | Monitorare | Issue log, report settimanale, KPI post-lancio |
 
-## 7. Rischi prioritari
+## 5. Rischi prioritari
 
 I rischi da monitorare ogni settimana sono:
 
