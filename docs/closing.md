@@ -4,6 +4,8 @@
 
 La fase di closing formalizza la conclusione del MVP Surya Shop. Il progetto prevede go-live il 1 giugno 2026, stabilizzazione fino al 10 giugno e monitoraggio post-lancio fino al 15 giugno 2026.
 
+**Questa sezione rappresenta una simulazione di chiusura progettuale e non un consuntivo reale.**
+
 ## 2. Procedura di chiusura
 
 La chiusura include:
@@ -163,4 +165,4 @@ Attività:
 
 ## 12. Conclusione
 
-Il progetto MVP Surya Shop viene chiuso positivamente. Shopify si conferma la soluzione più coerente con vincoli di budget, tempi e risorse interne. La fase successiva dovrà concentrarsi su traffico, contenuti, stock e crescita progressiva.
+Nello scenario simulato, il progetto MVP Surya Shop viene chiuso positivamente. Shopify si conferma la soluzione più coerente con vincoli di budget, tempi e risorse interne. La fase successiva dovrà concentrarsi su traffico, contenuti, stock e crescita progressiva.

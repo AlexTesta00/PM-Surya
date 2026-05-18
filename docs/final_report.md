@@ -2,21 +2,23 @@
 
 ## 1. Sintesi esecutiva
 
+**Questa sezione rappresenta una simulazione di chiusura progettuale e non un consuntivo reale.**
+
 Il progetto `Progetto di valutazione, pianificazione e lancio dell’e-commerce Surya Shop` ha valutato la convenienza dell’apertura di un e-commerce proprietario per Surya Tesori Accessori e ha confrontato diverse alternative: Shopify, custom, WooCommerce, marketplace/social commerce e mantenimento del solo canale fisico.
 
 La conclusione è che **conviene avviare il canale e-commerce** e che la soluzione raccomandata è **Shopify**.
 
 La raccomandazione è basata sui vincoli aggiornati:
 
-- avvio progetto: 1 aprile 2026;
-- go-live: 1 giugno 2026;
+- Avvio progetto: 1 aprile 2026;
+- Go-live: 1 giugno 2026;
 - MVP: 10 settimane, includendo stabilizzazione;
-- monitoraggio post-lancio: 2 settimane;
-- budget setup/lancio: 10.000 euro;
-- budget massimo annuale ricorrente: 3.000 euro;
-- catalogo iniziale: 150 prodotti;
-- formazione: 1 persona interna;
-- break-even stimato: 12-18 mesi.
+- Monitoraggio post-lancio: 2 settimane;
+- Budget setup/lancio: 10.000 euro;
+- Budget massimo annuale ricorrente: 3.000 euro;
+- Catalogo iniziale: 150 prodotti;
+- Formazione: 1 persona interna;
+- Break-even stimato: 12-18 mesi.
 
 ## 2. Obiettivi raggiunti
 
