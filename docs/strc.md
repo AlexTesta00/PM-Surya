@@ -104,6 +104,8 @@ Le ore del personale interno Surya sono considerate impegno organizzativo, non c
 
 La stima attuale dei costi ricorrenti è pari a circa 1.900 €/anno, mantenendosi sotto il limite massimo autorizzato di 3.000 €/anno.
 
+1.900€ è la stima base mentre i 3.000€ è il tetto autorizzato. 
+
 ## 8. Confronto Shopify, custom e WooCommerce
 
 | Voce | Shopify | Custom | WooCommerce |

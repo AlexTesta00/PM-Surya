@@ -105,6 +105,18 @@ I limiti sono riconosciuti: canoni ricorrenti, possibili costi app, dipendenza d
 | Ordini test | 3 | 3 | 0 |
 | Issue critiche al go-live | 0 | 0 | 0 |
 
+### Scostamenti rispetto al piano
+
+| Area | Piano iniziale | Consuntivo simulato | Scostamento | Azione correttiva |
+|---|---:|---:|---:|---|
+| Data go-live | 1 giugno 2026 | 1 giugno 2026 | Nessuno | Confermata la data grazie alla riduzione delle funzionalità non essenziali |
+| Budget setup | € 10.000 | € 9.750 | - € 250 | Evitata l’adozione di un’app non necessaria nel primo rilascio |
+| Costi ricorrenti annui | Max € 3.000 | Circa € 1.900 | Entro soglia | Mantenute solo le app indispensabili per MVP |
+| Prodotti caricati | 150 | 150 | Nessuno sul numero finale | 18 schede prodotto sono state riviste per immagini non idonee |
+| Qualità immagini | Immagini coerenti per tutto il catalogo | Qualità inizialmente non uniforme | Criticità parziale | Sostituzione o ritaglio delle immagini non coerenti |
+| Funzionalità Could | Valutate se compatibili | Rinviate | Riduzione scope | Priorità assegnata a checkout, catalogo, pagamenti, spedizioni e conformità base |
+| Formazione proprietario | 1 sessione | 1 sessione + mini checklist operativa | Leggero ampliamento | Creata checklist sintetica per gestione ordini e prodotti |
+
 I dati sono simulati e usati per finalità didattiche.
 
 ## 7. Benefici attesi
@@ -134,6 +146,16 @@ Il MVP esclude:
 - Personalizzazioni custom avanzate.
 
 Questi limiti sono scelte progettuali intenzionali per rispettare budget, tempi e capacità interna.
+
+### Criticità gestite durante la simulazione
+
+Durante la simulazione sono state considerate alcune criticità operative, utili a rendere il closing più realistico e coerente con la natura del progetto.
+
+La prima criticità riguarda il catalogo prodotti. Pur mantenendo l’obiettivo di 150 prodotti caricati, 18 schede hanno richiesto una revisione perché le immagini iniziali non erano pienamente coerenti per formato, illuminazione o qualità visiva. La criticità è stata gestita attraverso una selezione più rigorosa delle immagini e, dove possibile, tramite ritaglio o sostituzione. Questo conferma che, in un progetto e-commerce per prodotti artigianali o semi-artigianali, la qualità del contenuto visivo è una componente critica e non un’attività secondaria.
+
+La seconda criticità riguarda i costi ricorrenti. Durante la valutazione operativa è emersa la possibilità di introdurre un’app aggiuntiva per funzionalità avanzate di marketing e automazione. Tuttavia, il relativo costo ricorrente avrebbe aumentato la dipendenza da strumenti esterni e ridotto il margine disponibile entro il tetto annuo previsto. Per questo motivo l’app è stata esclusa dal perimetro MVP e rinviata a una fase successiva, da valutare solo dopo i primi dati reali di traffico e vendita.
+
+La terza criticità riguarda lo scope. Alcune funzionalità classificate come Could, pur interessanti dal punto di vista commerciale, avrebbero richiesto tempo aggiuntivo di configurazione e test. Per rispettare la data di go-live del 1 giugno 2026, il progetto ha mantenuto la priorità sulle funzionalità Must: catalogo navigabile, checkout funzionante, pagamenti, spedizioni, pagine informative, conformità base e tracciamento analytics.
 
 ## 9. Prossimi passi
 
@@ -174,6 +196,8 @@ Da rinviare. Richiede lingua, spedizioni, resi, fiscalità e customer care dedic
 
 ## 11 Conclusione finale
 
-Il progetto dimostra che Surya Tesori Accessori ha convenienza ad avviare un e-commerce proprietario. La scelta Shopify è netta e motivata: rispetto a custom e WooCommerce, offre migliore equilibrio tra budget, tempi, semplicità, rischio tecnico e autonomia operativa.
+La simulazione conferma Shopify come soluzione raccomandata per il lancio dell’e-commerce Surya Shop, soprattutto in relazione ai vincoli di budget, tempi e competenze interne disponibili. La piattaforma consente di realizzare un MVP funzionante entro la data prevista, mantenendo sotto controllo la complessità tecnica e permettendo al proprietario di gestire in autonomia le attività ordinarie.
 
-Il progetto non è semplicemente “fare un sito”, ma introdurre un nuovo canale digitale governato. Il successo dipenderà dalla capacità di mantenere disciplina sullo scope, controllare i costi ricorrenti, migliorare progressivamente catalogo e contenuti, e usare i dati raccolti per guidare le decisioni future.
+Il progetto non è però privo di rischi. Le criticità emerse nella simulazione mostrano che la riuscita dell’iniziativa dipende in modo significativo dalla qualità del catalogo, dalla disciplina nella gestione dello scope e dal controllo dei costi ricorrenti. In particolare, la revisione di 18 schede prodotto e la scelta di escludere un’app aggiuntiva dal primo rilascio dimostrano l’importanza di prendere decisioni coerenti con la logica MVP.
+
+La raccomandazione finale è quindi procedere con Shopify come piattaforma di lancio, mantenendo il primo rilascio essenziale e misurabile. Dopo il go-live, eventuali evoluzioni dovrebbero essere decise sulla base di dati concreti, come traffico, conversioni, ordini, richieste dei clienti e capacità interna di gestione.

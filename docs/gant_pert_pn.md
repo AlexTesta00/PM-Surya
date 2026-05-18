@@ -33,15 +33,15 @@ Il progetto è pianificato con attività parzialmente sovrapposte per rispettare
 | ID | Attività | Periodo | Durata | Dipendenze |
 |---|---|---|---:|---|
 | A1 | Kick-off e planning sintetico | 1 - 7 aprile | 1 settimana | POS |
-| A2 | Business Case e scelta Shopify | 1 - 7 aprile | 1 settimana | A1 |
+| A2 | Business Case e scelta Shopify | 1 - 7 aprile | 1 settimana | POS, input da A1 |
 | A3 | Setup Shopify base | 8 - 21 aprile | 2 settimane | A2 |
 | A4 | Scelta tema e UX base | 8 - 21 aprile | 2 settimane | A2 |
-| A5 | Struttura catalogo | 8 - 14 aprile | 1 settimana | A1 |
+| A5 | Struttura catalogo | 8 - 14 aprile | 1 settimana | A2 |
 | A6 | Preparazione/caricamento 150 prodotti | 15 aprile - 15 maggio | 4,5 settimane | A5 |
 | A7 | Pagamenti e spedizioni | 22 aprile - 8 maggio | 2,5 settimane | A3 |
 | A8 | GDPR, cookie e condizioni vendita | 22 aprile - 8 maggio | 2,5 settimane | A1 |
 | A9 | SEO base e analytics | 6 - 15 maggio | 1,5 settimane | A3, A6 parziale |
-| A10 | Test checkout, mobile e contenuti | 11 - 22 maggio | 2 settimane | A6, A7, A8 |
+| A10 | Test checkout, mobile e contenuti | 11 - 22 maggio | 2 settimane | A4, A5, A7, A8, A9 parziale |
 | A11 | Formazione proprietario | 18 - 22 maggio | 1 settimana | A3, A6 parziale |
 | A12 | Soft launch | 25 - 29 maggio | 1 settimana | A10, A11 |
 | A13 | Go-live pubblico | 1 giugno | 1 giorno | A12 |
@@ -58,32 +58,36 @@ gantt
     axisFormat  %d/%m
 
     section Initiating e Planning
-    POS approvato                         :milestone, m1, 2026-03-31, 1d
-    Kick-off e planning                   :crit, a1, 2026-04-01, 7d
-    Business Case e scelta Shopify        :crit, a2, 2026-04-01, 7d
+    POS approvato                         :milestone, m1, 2026-03-31, 0d
+    A1 Kick-off e planning sintetico      :crit, a1, 2026-04-01, 7d
+    A2 Business Case e scelta Shopify     :crit, a2, 2026-04-01, 7d
 
     section Setup Shopify
-    Setup Shopify base                    :crit, a3, 2026-04-08, 14d
-    Tema e UX base                        :a4, 2026-04-08, 14d
-    Struttura catalogo                    :crit, a5, 2026-04-08, 7d
+    A3 Setup Shopify base                 :crit, a3, 2026-04-08, 14d
+    A4 Scelta tema e UX base              :a4, 2026-04-08, 14d
+    A5 Struttura catalogo                 :crit, a5, 2026-04-08, 7d
 
     section Catalogo e operativita
-    Caricamento 150 prodotti              :crit, a6, 2026-04-15, 31d
-    Pagamenti e spedizioni                :crit, a7, 2026-04-22, 17d
-    GDPR cookie condizioni vendita        :a8, 2026-04-22, 17d
-    SEO base e analytics                  :a9, 2026-05-06, 10d
+    A6 Preparazione/caricamento 150 prodotti :crit, a6, 2026-04-15, 31d
+    A7 Pagamenti e spedizioni             :a7, 2026-04-22, 17d
+    A8 GDPR cookie e condizioni vendita   :a8, 2026-04-22, 17d
+    A9 SEO base e analytics               :crit, a9, 2026-05-06, 10d
 
     section Test e formazione
-    Test checkout mobile contenuti        :crit, a10, 2026-05-11, 12d
-    Formazione proprietario               :crit, a11, 2026-05-18, 5d
-    Soft launch                           :crit, a12, 2026-05-25, 5d
+    A10 Test checkout mobile e contenuti  :crit, a10, 2026-05-11, 12d
+    A11 Formazione proprietario           :crit, a11, 2026-05-18, 5d
+    A12 Soft launch                       :crit, a12, 2026-05-25, 5d
 
     section Lancio e monitoraggio
-    Go-live pubblico                      :milestone, crit, m10, 2026-06-01, 1d
-    Stabilizzazione MVP                   :crit, a14, 2026-06-01, 10d
-    Monitoraggio post-lancio              :a15, 2026-06-01, 15d
-    Report post-lancio                    :milestone, m12, 2026-06-15, 1d
+    A13 Go-live pubblico                  :milestone, crit, a13, 2026-06-01, 0d
+    A14 Stabilizzazione MVP               :a14, 2026-06-01, 10d
+    A15 Monitoraggio post-lancio          :crit, a15, 2026-06-01, 15d
+    A16 Closing report                    :milestone, crit, a16, 2026-06-15, 0d
 ~~~
+
+Il Gantt rappresenta la distribuzione temporale delle attività, mentre il PERT evidenzia le relazioni logiche tra attività. 
+
+Alcune dipendenze sono da intendersi come dipendenze parziali o progressive: in particolare, A9 e A11 possono iniziare quando il caricamento prodotti A6 è sufficientemente avanzato, e A10 può iniziare quando SEO/analytics A9 è configurata almeno nella sua parte essenziale.
 
 ## 5. Critical path senza interdipendenze
 

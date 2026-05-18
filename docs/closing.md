@@ -2,9 +2,15 @@
 
 ## 1. Premessa
 
-La fase di closing formalizza la conclusione del MVP Surya Shop. Il progetto prevede go-live il 1 giugno 2026, stabilizzazione fino al 10 giugno e monitoraggio post-lancio fino al 15 giugno 2026.
+Il closing report conclude la simulazione del progetto Surya Shop, finalizzato alla valutazione e pianificazione del lancio di un MVP e-commerce basato su Shopify.
 
-**Questa sezione rappresenta una simulazione di chiusura progettuale e non un consuntivo reale.**
+Poiché il progetto ha natura didattica, i risultati riportati non devono essere interpretati come consuntivi aziendali reali, ma come una simulazione coerente con il piano di progetto, utile a verificare la solidità delle scelte effettuate, la gestione dei rischi e la sostenibilità della soluzione proposta.
+
+Rispetto al piano iniziale, il progetto ha confermato la validità generale della scelta Shopify, ma ha evidenziato alcune criticità operative tipiche di un progetto e-commerce per una piccola realtà retail-artigianale. In particolare, sono emersi tre aspetti rilevanti: la qualità non uniforme di alcune immagini prodotto, il rischio di aumento dei costi ricorrenti dovuto all’uso di app aggiuntive e la necessità di rivedere alcune attività non essenziali per rispettare tempi e budget.
+
+Queste criticità non hanno modificato la raccomandazione finale, ma hanno reso più evidente l’importanza di mantenere uno scope MVP controllato, distinguendo le funzionalità indispensabili da quelle rinviabili a una fase successiva.
+
+**I dati di closing sono costruiti come scenario simulato a fini didattici. Le criticità e le azioni correttive non rappresentano eventi aziendali certificati, ma ipotesi realistiche utilizzate per verificare la tenuta del piano di progetto e la coerenza delle decisioni manageriali.**
 
 ## 2. Procedura di chiusura
 

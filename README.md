@@ -63,7 +63,7 @@ Il progetto include:
 - Stime tempi, costi e risorse;
 - Gantt;
 - Pert;
-- Snalisi rischi;
+- Analisi rischi;
 - PDS;
 - Launching/execution plan;
 - Matrice RASCI;

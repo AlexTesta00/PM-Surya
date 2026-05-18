@@ -28,7 +28,7 @@ Livello rischio = Probabilità x Impatto.
 | R1 | Catalogo prodotti incompleto | 4 | 5 | 20 | Critico | Selezione anticipata, template schede, priorità ai prodotti pronti | E-commerce specialist |
 | R2 | Fotografie non coerenti | 4 | 4 | 16 | Critico | Usare standard minimo e rimandare prodotti non idonei | Content Specialist |
 | R3 | Sottostima lavoro contenutistico | 4 | 4 | 16 | Critico | Limitare descrizioni, usare template, controlli settimanali | PM |
-| R4 | Budget setup insufficiente | 3 | 5 | 15 | Alto | Bloccare Could, evitare custom, usare tema standard | PM |
+| R4 | Budget setup insufficiente | 3 | 5 | 15 | Alto | congelare le funzionalità Could, evitare custom, usare tema standard | PM |
 | R5 | Budget ricorrente oltre 3.000 euro | 3 | 4 | 12 | Alto | App approval, revisione costi annuali, limitare app | PM |
 | R6 | Una sola persona formata | 4 | 4 | 16 | Critico | Manuale operativo, video guida, supporto esterno leggero | PM |
 | R7 | Resistenza operativa interna | 3 | 3 | 9 | Medio | Formazione pratica e processi semplici | Proprietà Surya |
@@ -46,7 +46,7 @@ Livello rischio = Probabilità x Impatto.
 | R19 | Mobile experience debole | 3 | 4 | 12 | Alto | Test mobile obbligatorio | UX/UI |
 | R20 | Customer care non strutturato | 3 | 3 | 9 | Medio | FAQ e template risposta | E-commerce specialist |
 
-## 53. Analisi rischi per alternativa
+## 3. Analisi rischi per alternativa
 
 | Alternativa | Rischio tecnico | Rischio economico | Rischio operativo | Valutazione |
 |---|---|---|---|---|
