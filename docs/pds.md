@@ -169,7 +169,7 @@ Sono esclusi dal MVP:
 
 ## 9. Assunzioni
 
-- Il proprietario giovane (e-commerce specialist) sarà disponibile per formazione e gestione.
+- L'Ecommerce-Specialist sarà disponibile per formazione e gestione.
 - I prodotti MVP sono selezionabili entro aprile.
 - Le immagini disponibili sono sufficienti per almeno 150 prodotti.
 - Shopify è la piattaforma scelta.

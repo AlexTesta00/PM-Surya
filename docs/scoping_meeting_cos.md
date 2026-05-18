@@ -2,7 +2,7 @@
 
 ## 1. Premessa
 
-La fase di scoping chiarisce obiettivi, vincoli, alternative e conditions of satisfactions. I meeting sono reali e coerenti con l’avvio del progetto il **1 aprile 2026**.
+La fase di scoping chiarisce obiettivi, vincoli, alternative e Conditions of Satisfaction. I meeting sono reali e coerenti con l’avvio del progetto il **1 aprile 2026**.
 
 ## 2. Meeting & Scoping
 
@@ -108,7 +108,7 @@ Shopify è emerso come soluzione più adatta perché riduce il time-to-market e 
 | Data | 31 marzo 2026 |
 | Luogo | Store Surya Misano |
 | Partecipanti | Proprietà Surya, Project Manager, Business Analyst, Legal/GDPR Consultant |
-| Obiettivo | Validare POS, budget, tempi e conditions of satisfactions |
+| Obiettivo | Validare POS, budget, tempi e Conditions of Satisfaction |
 | Ordine del giorno | Approvazione baseline, GDPR, MVP, formazione, KPI, go-live |
 
 #### Sintesi

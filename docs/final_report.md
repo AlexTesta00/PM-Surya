@@ -87,7 +87,7 @@ I limiti sono riconosciuti: canoni ricorrenti, possibili costi app, dipendenza d
 | Spedizioni | Italia configurata |
 | Policy | Privacy, cookie, resi e condizioni vendita |
 | Analytics | Attivo |
-| Formazione | Proprietario giovane formato |
+| Formazione | E-commerce Specialist formato |
 | Soft launch | 25-29 maggio 2026 |
 | Go-live | 1 giugno 2026 |
 | Monitoraggio | 1-15 giugno 2026 |

@@ -14,7 +14,7 @@ La chiusura include:
 2. Verifica criteri di accettazione;
 3. Chiusura issue critiche;
 4. Verifica formazione;
-5. Handover al proprietario giovane;
+5. Handover all' Ecommerce-Specialist;
 6. Report KPI post-lancio;
 7. Roadmap futura;
 8. Approvazione closing.
