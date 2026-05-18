@@ -94,16 +94,18 @@ I limiti sono riconosciuti: canoni ricorrenti, possibili costi app, dipendenza d
 
 ## 6. Confronto pianificato/consuntivo simulato
 
-| Elemento | Pianificato | Consuntivo simulato | Scostamento |
-|---|---:|---:|---:|
-| Avvio | 1 aprile 2026 | 1 aprile 2026 | 0 |
-| Go-live | 1 giugno 2026 | 1 giugno 2026 | 0 |
-| Budget setup | 10.000 euro | 10.000 euro | 0 |
-| Budget ricorrente annuo | max 3.000 euro | stimato entro 3.000 euro | 0 |
-| Catalogo | 150 prodotti | 150 prodotti | 0 |
-| Persone formate | 1 | 1 | 0 |
-| Ordini test | 3 | 3 | 0 |
-| Issue critiche al go-live | 0 | 0 | 0 |
+| Elemento | Pianificato | Consuntivo simulato | Scostamento | Nota |
+|---|---:|---:|---:|---|
+| Avvio | 1 aprile 2026 | 1 aprile 2026 | 0 | Avvio confermato |
+| Go-live | 1 giugno 2026 | 1 giugno 2026 | 0 | Data rispettata grazie a controllo scope |
+| Budget setup | 10.000 euro | 9.750 euro | -250 euro | Esclusa app non essenziale |
+| Budget ricorrente annuo | max 3.000 euro | circa 1.900 euro | entro soglia | App avanzate rinviate |
+| Catalogo | 150 prodotti | 150 prodotti | 0 sul numero finale | 30 prodotti rivisti, 18 sostituiti o corretti |
+| Persone formate | 1 | 1 | 0 | Aggiunta checklist operativa |
+| Ordini test | 3 | 3 | 0 | Un problema analytics corretto prima del go-live |
+| Issue critiche al go-live | 0 | 0 | 0 | 7 issue gestite durante l’esecuzione |
+
+Gli scostamenti quantitativi principali risultano contenuti, ma la simulazione ha evidenziato criticità operative rilevanti. In particolare, alcune schede prodotto hanno richiesto revisione delle immagini, una app è stata esclusa dal perimetro MVP per evitare aumento dei costi ricorrenti e il tracciamento analytics del checkout ha richiesto una correzione prima del go-live. Questi elementi non hanno modificato la raccomandazione finale, ma confermano l’importanza di controllo dello scope e monitoraggio operativo.
 
 ### Scostamenti rispetto al piano
 

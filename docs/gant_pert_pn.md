@@ -103,7 +103,7 @@ Il catalogo è critico perché 150 prodotti richiedono immagini, descrizioni, pr
 
 ### Pagamenti e spedizioni
 
-Checkout, pagamenti e spedizioni devono essere testati prima del soft launch. Considerando il tempo di apertura di un conto bancario nuovo.
+Checkout, pagamenti e spedizioni devono essere testati prima del soft launch. La configurazione dei pagamenti deve considerare anche i tempi tecnici di attivazione o verifica del conto bancario.
 
 ### GDPR e policy
 

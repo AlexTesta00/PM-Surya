@@ -30,6 +30,8 @@ L’Issue Log registra problemi, blocchi e anomalie. È fondamentale in un proge
 | ISS-06 | 08/05/2026 | Tariffe spedizione da validare | Media | Checkout | Shopify Specialist | `Testing` | 12/05 | Ordini test |
 | ISS-07 | 12/05/2026 | Analytics non registra evento checkout | Alta | KPI | Marketing Specialist | `In Progress` | 16/05 | Verifica tracking |
 
+Tutte le issue in fase di closing sono state risolte.
+
 ## 4. Trello
 
 | Colonna | Significato |
