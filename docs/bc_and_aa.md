@@ -211,7 +211,7 @@ WooCommerce e marketplace ottengono punteggi intermedi, ma per motivi diversi: W
 | Voce | Range annuo ipotetico |
 |---|---:|
 | Canoni piattaforma | inclusi nel budget ricorrente |
-| App essenziali | 300-900 euro |
+| App essenziali | 300-500 euro |
 | Dominio/strumenti minori | 100-300 euro |
 | Piccola assistenza tecnica | 600-1.200 euro |
 | Margine per incrementi o strumenti | 600-1.000 euro |
