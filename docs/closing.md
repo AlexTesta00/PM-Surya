@@ -143,7 +143,7 @@ Attività:
 
 | Domanda | Risposta simulata |
 |---|---|
-| Il go-live è stato rispettato? | Si, apertura anticipata |
+| Il go-live è stato rispettato? | Sì, go-live rispettato nella data pianificata |
 | Il budget setup è stato rispettato? | Sì, 10.000 euro ipotetici |
 | Il budget ricorrente è sostenibile? | Sì, entro 3.000 euro/anno se app controllate |
 | Shopify è adeguato? | Sì, per MVP snello e gestione autonoma |
