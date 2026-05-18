@@ -76,7 +76,7 @@ La soluzione raccomandata è Shopify.
 - Lo stock real-time con store fisici non è incluso nel MVP.
 - Il budget setup/lancio è pari a 10.000 euro.
 - Il budget ricorrente massimo è pari a 3.000 euro/anno.
-- Shopify è già in fase di valutazione/sviluppo preliminare.
+- Shopify è una delle alternative prioritarie da validare.
 - I dati economici e di vendita sono ipotesi progettuali.
 
 ## 8. Vincoli

@@ -41,7 +41,7 @@ L’opzione “do nothing” consiste nel mantenere solo i tre store fisici.
 - Dipendenza dal traffico fisico.
 - Minore relazione con clienti non locali.
 - Rischio di ritardo competitivo.
-- Store aperto solo nei 4 mesi stagionali.
+- L’attività ha forte stagionalità turistica, con picco nei mesi estivi.
 - Nessuna possibilità di fare analisi automatizzata sulle vendite.
 - Minor Brand Identity a livello nazionale.
 
@@ -63,7 +63,7 @@ Il do nothing è conveniente solo nel brevissimo periodo. Nel medio periodo limi
 - Maggiore controllo rispetto ai marketplace.
 - Coerente con budget contenuto se si limita lo scope.
 - Permette di partire con MVP e crescere per step.
-- Permette la gestione avanzata di automazioni (newsletter, marketing, campagne).
+- Offre possibilità future di automazioni, newsletter e campagne, da valutare dopo il MVP.
 
 #### Contro
 
