@@ -72,7 +72,7 @@ nav:
     - Project Management Lifecycle: pmlc.md
     - Work Breakdown Structure: wbs.md
     - Stime, tempi, risorse e Costi: strc.md
-    - Gant & Pert & Project Network: gant_pn.md
+    - GANTT & PERT & Project Network: gant_pert_pn.md
   
   - Governance e controllo:
     - Analisi dei rischi: risk.md
