@@ -85,13 +85,15 @@ gantt
     Report post-lancio                    :milestone, m12, 2026-06-15, 1d
 ~~~
 
-## 5. Critical path
+## 5. Critical path senza interdipendenze
 
 Il critical path ipotetico è:
 
 **A1 → A2 → A3 → A5 → A6 → A7 → A10 → A11 → A12 → A13 → A14**
 
 I ritardi su catalogo, pagamenti, test o formazione possono compromettere il go-live.
+
+Questo percorso può non essere veritiero poiché non considera le interdipendenze tra le attività.
 
 ## 6. Dipendenze principali
 
@@ -215,11 +217,13 @@ flowchart LR
     class A3,A4,A7,A8,A11,A14 normal;
 ```
 
-## 7.4 Percorso critico
+## 7.4 Critical Path
 
 Il percorso critico fino al go-live pubblico è:
 
 A1 → A2 → A5 → A6 → A9 → A10 → A12 → A13
+
+Risultato più veritiero poiché considera anche le interdipendenze tra le attività.
 
 ## 7.5 Interpretazione PERT
 Il percorso critico evidenzia che il principale vincolo del progetto non è la configurazione tecnica di Shopify, ma la preparazione del catalogo e il completamento delle attività necessarie al test e al go-live.
