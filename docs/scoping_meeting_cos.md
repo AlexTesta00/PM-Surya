@@ -43,7 +43,7 @@ Il Project Manager ha chiarito l'importanza che il progetto non è “fare un si
 
 | Campo | Dettaglio |
 |---|---|
-| Data ipotetica | 25 marzo 2026 |
+| Data | 25 marzo 2026 |
 | Luogo | Store Surya Cattolica |
 | Partecipanti | Project Manager, E-commerce specialist, Store Manager, Content Specialist |
 | Obiettivo | Valutare catalogo, contenuti e capacità operativa interna |
@@ -75,7 +75,7 @@ La sua competenza informatica è nella media: questo rende necessaria una piatta
 
 | Campo | Dettaglio |
 |---|---|
-| Data ipotetica | 27 marzo 2026 |
+| Data | 27 marzo 2026 |
 | Luogo | Meeting online |
 | Partecipanti | Project Manager, Business Analyst, Shopify Specialist, UX/UI Designer, Proprietà Surya |
 | Obiettivo | Confrontare Shopify, custom, WooCommerce, marketplace/social commerce e do nothing |
@@ -105,7 +105,7 @@ Shopify è emerso come soluzione più adatta perché riduce il time-to-market e 
 
 | Campo | Dettaglio |
 |---|---|
-| Data ipotetica | 31 marzo 2026 |
+| Data | 31 marzo 2026 |
 | Luogo | Store Surya Misano |
 | Partecipanti | Proprietà Surya, Project Manager, Business Analyst, Legal/GDPR Consultant |
 | Obiettivo | Validare POS, budget, tempi e conditions of satisfactions |
