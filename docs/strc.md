@@ -87,7 +87,8 @@ Le ore del personale interno Surya sono considerate impegno organizzativo, non c
 | GDPR/cookie/condizioni vendita | 700 euro |
 | SEO base e analytics | 700 euro |
 | Formazione | 400 euro |
-| Buffer minimo | 1.000 euro |
+| Soft launch, go-live e supporto iniziale | 800 euro |
+| Buffer minimo | 200 euro |
 | **Totale** | **10.000 euro** |
 
 ## 7. Costi ricorrenti annuali
