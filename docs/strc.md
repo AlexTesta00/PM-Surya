@@ -108,9 +108,9 @@ La stima attuale dei costi ricorrenti è pari a circa 1.900 €/anno, mantenendo
 
 | Voce | Shopify | Custom | WooCommerce |
 |---|---:|---:|---:|
-| Setup MVP | 2.000 euro | 8.000 euro | 5.000 euro |
+| Setup MVP | 2.000 euro | 25.000 – 60.000 euro | 10.000 – 20.000 euro |
 | Durata | 10 settimane | 6 - 8 mesi | 10 - 16 settimane |
-| Ricorrenti annui | entro 1.900 euro se controllato | 3.000 - 5.000 euro | 1.500 - 3.000 euro |
+| Ricorrenti annui | entro 3.000 € | 5.000–15.000 euro | 2.000 – 6.000 euro |
 | Rischio tecnico | Basso/medio | Alto | Medio |
 | Autonomia interna | Alta | Bassa/media | Media |
 | Coerenza con risorsa unica | Alta | Bassa | Media |
