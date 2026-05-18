@@ -65,7 +65,7 @@ Surya valuta l’e-commerce per:
 
 ## 6. Attori principali
 
-Preciso che essendo un'impresa di medie dimensioni, i soggetti coinvolti possono ricoprire più ruoli.
+Preciso che essendo piccola impresa retail-artigianale con struttura familiare e tre store fisici, i soggetti coinvolti possono ricoprire più ruoli.
 
 | Attore | Interesse | Responsabilità |
 |---|---|---|
