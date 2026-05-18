@@ -2,7 +2,7 @@
 
 ## 1. Premessa
 
-Le stime sono realistiche. Il progetto prevede:
+Le stime sono ipotesi didattiche costruite in modo realistico rispetto allo scope MVP. Il progetto prevede:
 
 - Avvio: 1 aprile 2026;
 - Go-live: 1 giugno 2026;

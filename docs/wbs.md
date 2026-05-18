@@ -113,6 +113,8 @@ La WBS è costruita su un progetto con: avvio 1 aprile 2026, go-live 1 giugno 20
 
 ## 3. Tabella WBS
 
+La tabella seguente riporta le attività principali della WBS, non l’elenco completo.
+
 | ID | Attività | Priorità | Deliverable | Responsabile |
 |---|---|---|---|---|
 | 1.1 | Analisi stakeholder | Must | Mappa stakeholder | PM |

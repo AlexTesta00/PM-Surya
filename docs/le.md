@@ -64,7 +64,9 @@ L'E-commerce specialist viene identificato come referente operativo unico da for
 | Teams | Comunicazioni operative |
 | Foglio catalogo | Stato prodotti e schede |
 
-Tutti gli strumenti nascono per semplificare e rendere agile il lavoro informatico. Pertanto non vengono scelti strumenti con alta riproducibilità, manutenibilità e scalabilità, poiché rappresenterebbero overhead di formazione specializzata.
+Tutti gli strumenti nascono per semplificare e rendere agile il lavoro informatico.
+
+Non vengono scelti strumenti enterprise o troppo complessi, perché introdurrebbero overhead di configurazione e formazione non coerente con il MVP.
 
 ## 5. Collaborazione Surya-fornitore
 

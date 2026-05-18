@@ -149,6 +149,7 @@ Sono esclusi dal MVP:
 | Setup Shopify base | 21 aprile 2026 |
 | Pagamenti/spedizioni | 8 maggio 2026 |
 | Catalogo MVP | 15 maggio 2026 |
+| Apertura conto bancario | 18 maggio 2026 |
 | Test completati | 22 maggio 2026 |
 | Formazione completata | 22 maggio 2026 |
 | Soft launch | 25 maggio 2026 |

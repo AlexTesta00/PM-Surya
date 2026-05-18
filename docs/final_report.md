@@ -26,16 +26,16 @@ La raccomandazione è basata sui vincoli aggiornati:
 |---|---|
 | Valutare convenienza e-commerce | Raggiunto |
 | Analizzare alternative | Raggiunto |
-| Raccomandare soluzione | Shopify |
+| Raccomandare soluzione | Shopify raccomandato |
 | Definire modello operativo | Raggiunto |
 | Configurare MVP Shopify | Raggiunto |
-| Caricare catalogo iniziale | 150 prodotti |
+| Caricare catalogo iniziale | 150 prodotti caricati |
 | Configurare pagamenti/spedizioni | Raggiunto |
 | Pubblicare policy GDPR/cookie | Raggiunto |
 | Formare personale interno | 1 persona formata |
 | Effettuare soft launch | Raggiunto |
 | Go-live | Raggiunto |
-| Monitoraggio post-lancio | 2 settimane |
+| Monitoraggio post-lancio | 2 settimane completate |
 
 ## 3. Alternative valutate
 
