@@ -101,7 +101,7 @@ Le ore del personale interno Surya sono considerate impegno organizzativo, non c
 | Margine per imprevisti/strumenti | 1.000 euro |
 | **Massimo annuale** | **1.900 euro** |
 
-Il budget ricorrente non include campagne pubblicitarie significative, shooting fotografici o nuove funzionalità avanzate.
+La stima attuale dei costi ricorrenti è pari a circa 1.900 €/anno, mantenendosi sotto il limite massimo autorizzato di 3.000 €/anno.
 
 ## 8. Confronto Shopify, custom e WooCommerce
 
